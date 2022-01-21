@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Hafizuddin Sharif Bin Umar Sharif <br />
-Front-end development, machine learning, web 3.0
+My name is Hafizuddin Sharif Bin Umar Sharif 😎 <br />
+Front-end development 💻, machine learning 🤖, web 3.0 🌍
