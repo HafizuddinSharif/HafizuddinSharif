@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Hafizuddin Sharif Bin Umar Sharif
+Front-end development, machine learning, web 3.0
