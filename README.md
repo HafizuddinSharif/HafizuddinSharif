@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 My name is Hafizuddin Sharif Bin Umar Sharif 😎 <br />
-Front-end development 💻, machine learning 🤖, web 3.0 🌍
+Software development 💻
