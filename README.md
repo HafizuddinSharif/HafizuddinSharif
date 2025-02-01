@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Hafizuddin Sharif Bin Umar Sharif 😎 <br />
-Software development 💻
+My name is **Hafizuddin Sharif Bin Umar Sharif** 😎 <br />
+
+📩 Feel free to reach out to me for collab/work opportunities!
